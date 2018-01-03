@@ -97,7 +97,7 @@ var movie1= ["Batman", "Superman", "Iron Man", "Ant-Man"];
 
 for(i=0; i<movie1.length; i++){
 
-var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=4175f271";
+var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=40e9cece";
 
 
 $.ajax({
@@ -160,7 +160,7 @@ var movie1 = ["Batteries Not Included", "Back To The Future", "ET", "Runaway"];
 
 for(i=0; i<movie1.length; i++){
 
-var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=4175f271";
+var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=40e9cece";
 
 
 $.ajax({
@@ -222,7 +222,7 @@ var movie1 = ["Pretty In Pink", "Sixteen Candles", "French Kiss", "Never Been Ki
 
 for(i=0; i<movie1.length; i++){
 
-var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=4175f271";
+var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=40e9cece";
 
 
 $.ajax({
@@ -283,7 +283,7 @@ var movie1= ["My Girl", "Orange County", "Mad Max", "Top Gun"];
 
 for(i=0; i<movie1.length; i++){
 
-var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=4175f271";
+var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=40e9cece";
 
 
 $.ajax({
@@ -348,7 +348,7 @@ var movie1= ["Gremlins", "Predator", "Stand By Me", "Aliens"];
 
 for(i=0; i<movie1.length; i++){
 
-var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=4175f271";
+var queryURL = "https://www.omdbapi.com/?t=" + movie1[i] + "&y=&plot=short&apikey=40e9cece";
 
 
 $.ajax({
